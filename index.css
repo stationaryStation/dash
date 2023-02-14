@@ -94,3 +94,6 @@ section > a[role="link"].solenoid:hover::before {
 section > a[role="link"].frc:hover::before {
     background-color: #8cb4ff;
 }
+section > a[role="link"].scripts:hover::before {
+    background-color: #23d32a;
+}
