@@ -3,8 +3,8 @@
 }
 
 body {
-    background-color: #000;
-    color: #ccc;
+    background-color: #190B14;
+    color: #D8A4C6;
     height: 100vh;
     padding: 0;
     margin: 0;
@@ -32,12 +32,12 @@ section {
 }
 
 section > h2 {
-    color: #fff;
+    color: #C999B6;
 }
 
 section > a[role="link"]:visited,
 section > a[role="link"] {
-    color: #ccc;
+    color: #D8A4C6;
     text-decoration: none;
 }
 
